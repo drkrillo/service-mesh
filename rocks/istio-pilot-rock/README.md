@@ -13,3 +13,4 @@ Automation takes care of:
 * validating PRs, by simply trying to build the rock;
 * pulling upstream releases, creating a PR with the necessary files to be manually reviewed;
 * releasing to GHCR at [ghcr.io/canonical/istio-pilot:dev](https://ghcr.io/canonical/istio-pilot:dev), when merging to main, for development purposes.
+
